@@ -1,1 +1,10 @@
 # PyBer_Analysis
+Overview of the analysis: The purpose of this analysis was to analyze data across types of living setting (urban, suburban, rural) for profitability of rides for a ridesharing company, PyBer.
+
+Results: The data showed that urban settings bring in more revenue, with approximately 10 times higher income than rural settings. However, fares per ride are $10 lower in urban settings compared to rural and nearly $40 lower when comparing fares per driver. These signifcant differences need to be considered when making strategic decisions.
+Key charts and tables can be found embedded in PyBer and Pyber_Challenge code.
+
+Summary: Three business recommendations to the CEO for addressing any disparities among the city types are as follow. 
+1. Encourage people in urban settings to ride more often and to use PyBer for all of their transportation needs. More short rides, more often will continue to comprise the majority of revenue for the company, most likely. How do we get more people to ride in cities? Incentivize customers and add luxuries that make PyBer an easy choice over other forms of transport: convenient pickups, friendly drivers, clean and comfortable cars. These things plus lower cost will make Pyber the choice over competitors.
+2. Rural drivers make more money per ride. How can we make sure urban drivers don't leave for rural areas? Incentivize them to work in cities, pay for insurance perhaps. Consider paying a bonus for ride volume versus ride distance. Similarly, those long distance rides are valuable and should also be made appealing because they bring in more dollars per ride. Incentivizing folks in rural areas to become drivers will make it easier for people in rural settings to use PyBer. 
+3. Replacing other convenient modes of transportation will be key. Becoming less expensive that the personal automobile will create incentives for using PyBer over buying a car. Considering whether a membership that over time will be far less expensive than a car will make it a no brainer for customers to choose ride sharing services like PyBer. 
